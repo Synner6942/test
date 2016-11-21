@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_520c61545d5fcebe2447a56a3d0da4c87cfe816a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_112d7e56311e81b5e9622d38b923f3de45cb9589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e2465ce3bb6411fba3f6a02f407080a2c88e9c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c406fcc35eac92576db1c02fa943a63d04f658ca">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f427f1bda725681b271afd1d031b3ac31e735cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b334a4c8ec030c53b8b009eb0fcaf02933279adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_334c8ebd61b1425677da39ec8a43da25716b7c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="402dd31533e60bc6d688fd97f3ff3a93bb352922">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2ce71fc5b9899032fad7e084443185650a4dc2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_25214c5207a4870ffd779a78434d3ee59faec1cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3b16ae7d0e7191b039959501cf31bc06b4715f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_57d38d427ec834e101e81387f84f04f79b1a16ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3f5e58792c5bc2030f42074770b05b9fcaed0ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0aea09097aaba1209a4c58b8fd0cf82cfaa830ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_73694038eb6e81029ff505ea9d3895606e7c7e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_53087eb361b9b5a069e97066c4a268eb5e852e88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a05496046a503ebeb1ae5e01bf9d0e44f24b74cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f7e43b67f987f1a2d67963bbd4b581875860518d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bc54bfe8b07482b06b841ed12d54d55aa82e6609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3ac5d9c86c46fe4445df88418978c948c5e87585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nightmare\Desktop\Proyecto\ProyectoV1.1.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d78ac3018c42212c690ce55d39580acc5c57fa30\classes.dex" />
+    </item>
+
+</items>
